@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emblahealth.com/sitemap.xml
